@@ -1,6 +1,6 @@
 # Hey, everyone! 🙋‍♂️
 
-<li>I'm currently learning ReactJS and TypeScript. 📚</li>
+<li>I'm currently learning ReactJS and TypeScript.</li>
 <li>I'm looking for a job</li>
 <li>I’m looking for help with TypeScript.</li>
 
