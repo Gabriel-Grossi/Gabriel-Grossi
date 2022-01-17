@@ -4,7 +4,7 @@
 <li>I'm looking for a job</li>
 <li>I’m looking for help with TypeScript.</li>
 
-# About me 👦
+## About me 👦
 
 <p>Since I was a child, I've always liked to mess with computers, I've always been curious to know how to use it, settings, among others.</p>
 <p>Three years ago, I discovered the universe of programming and since then I have never stopped studying about and putting knowledge into practice.</p>
@@ -19,7 +19,7 @@
 
 <br>
 
-# Techs 💻
+## Techs 💻
 <div style="display: inline-block"><br>
 
   <img align="center" alt="Gabriel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
