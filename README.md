@@ -1,7 +1,7 @@
 # Hey, everyone! 🙋‍♂️
 
 <li>I'm currently learning ReactJS and TypeScript.</li>
-<li>I'm looking for a job</li>
+<li>Currently, I'm working as Client Support Intern at Sovos</li>
 <li>I’m looking for help with TypeScript.</li>
 
 ## About me 👦
