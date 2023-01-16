@@ -9,7 +9,8 @@
 <p>Since I was a child, I've always liked to mess with computers, I've always been curious to know how to use it, settings, among others.</p>
 <p>Three years ago, I discovered the universe of programming and since then I have never stopped studying about and putting knowledge into practice.</p>
 <p>In 2021, I graduated in Systems Analysis and Development from Universidade Paulista - UNIP.</p>
-<p>My CEFR Level is B2 (Upper Intermediate).
+<p>I am currently pursuing a bachelor degree in Computer Science at FAM/p>
+<p>My CEFR Level is C1 (Advanced).
 
 ## Hobbies
 
