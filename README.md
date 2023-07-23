@@ -1,8 +1,8 @@
 # Hey, everyone! 🙋‍♂️
 
-<li>I'm currently learning ReactJS and TypeScript.</li>
+<li>I'm currently learning Next.js, NextAuth/Auth0 and also JWT.</li>
 <li>Currently, I'm working as Client Support Intern at Sovos</li>
-<li>I’m looking for help with TypeScript.</li>
+<li>I’m looking for help with Next.js.</li>
 
 ## About me 👦
 
